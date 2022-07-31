@@ -1,0 +1,77 @@
+{
+  "voters": [
+    {
+      "voter_number": 1,
+      "private_number": 3,
+      "name": "Meagan Donnell",
+      "vote" : 1
+    },
+    {
+      "voter_number": 2,
+      "private_number": 5,
+      "name": "Mable Berry",
+      "vote" : 1
+    },
+    {
+      "voter_number": 3,
+      "private_number": 7,
+      "name": "Neifion Cartwright",
+      "vote" : 1
+    },
+    {
+      "voter_number": 4,
+      "private_number": 11,
+      "name": "Quin Graves",
+      "vote" : 1
+    },
+    {
+      "voter_number": 5,
+      "private_number": 13,
+      "name": "Johnie Winfield",
+      "vote" : 1
+    },
+    {
+      "voter_number": 6,
+      "private_number": 17,
+      "name": "Jacki Alfredson",
+      "vote" : 16
+    },
+    {
+      "voter_number": 7,
+      "private_number": 19,
+      "name": "Bree Lindon",
+      "vote" : 16
+    },
+    {
+      "voter_number": 8,
+      "private_number": 23,
+      "name": "Macaulay Ó hEidhin",
+      "vote" : 16
+    },
+    {
+      "voter_number": 9,
+      "private_number": 29,
+      "name": "Lise Tracey",
+      "vote" : 16
+    },
+    {
+      "voter_number": 10,
+      "private_number": 31,
+      "name": "Baylee Timberlake",
+      "vote" : 256
+    },
+    {
+      "voter_number": 11,
+      "private_number": 37,
+      "name": "Adele Fortune",
+      "vote" : 256
+    },
+    {
+      "voter_number": 12,
+      "private_number": 41,
+      "name": "Emmanuel Twist",
+      "vote" : 256
+    }
+
+  ]
+}

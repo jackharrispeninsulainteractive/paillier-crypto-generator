@@ -1,0 +1,16 @@
+{
+  "candidates": [
+    {
+      "name": "Alice",
+      "image" : "/images/user-1.png"
+    },
+    {
+      "name": "Bob",
+      "image" : "/images/user-2.png"
+    },
+    {
+      "name": "eve",
+      "image" : "/images/user-3.png"
+    }
+  ]
+}
